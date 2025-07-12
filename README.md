@@ -6,7 +6,7 @@
 
 ## 👥 Team Name
 
-**Team Name**: 🛠️ CodeCrushers
+**Team Name**: Team 0546
 
 **Team Members**:
 - Debajyoti Chatterjee
