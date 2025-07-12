@@ -73,9 +73,3 @@
 - Node.js
 - Express.js
 - MongoDB + Mongoose
-
-### Dev Tools
-- Git & GitHub
-- Postman
-- Vercel / Netlify (frontend deployment)
-- Render / Railway / Cyclic (backend deployment)
