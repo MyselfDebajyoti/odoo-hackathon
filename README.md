@@ -19,6 +19,7 @@
 ## 🌟 Overview
 
 **Skill Swap Platform** is a mini full-stack web application where users can list the skills they offer and request the skills they want in return. The platform fosters collaborative growth by allowing users to connect, exchange knowledge, and build a learning network through peer-to-peer skill swapping.
+
 video explain link : https://drive.google.com/drive/folders/1ji8AB02gbBT8aQvB2bOrgQfNonMa7SH9?usp=sharing
 
 ---
@@ -66,9 +67,9 @@ video explain link : https://drive.google.com/drive/folders/1ji8AB02gbBT8aQvB2bO
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js
+- Next.js
 - Tailwind CSS
-- TypeScript (optional)
+- TypeScript
 
 ### Backend
 - Node.js
